@@ -33,4 +33,4 @@ This repository is licensed under the MIT License.
 This repository was inspired by the official OpenCV documentation and the work of many other contributors to the OpenCV and Python communities.
 
 # Contact
-If you have any questions or comments about this repository, please feel free to contact me at entridoy2@gmail.com.
+If you have any questions or comments about this repository, please feel free to contact me at entridoy2@gmail.com or www.youtube.com/@problemsolvewiithridoy
