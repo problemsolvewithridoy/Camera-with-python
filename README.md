@@ -26,9 +26,6 @@ This repository contains the following code examples:
 # Contributing
 If you have ideas for additional examples or improvements to the existing code, please feel free to submit a pull request or open an issue.
 
-# License
-This repository is licensed under the MIT License.
-
 # Acknowledgements
 This repository was inspired by the official OpenCV documentation and the work of many other contributors to the OpenCV and Python communities.
 
@@ -42,4 +39,7 @@ YouTube:- https://www.youtube.com/@problemsolvewithridoy
 
 Gmail:- entridoy2@gmail.com
 
-If you have any confusion, please feel free to contact me. Thank you
+## If you have any confusion, please feel free to contact me. Thank you
+
+# License
+This script is released under the MIT License. Feel free to use, modify, and distribute it as you wish. If you find any bugs or have any suggestions for improvement, please submit an issue or a pull request on this repository.
