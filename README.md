@@ -1,5 +1,5 @@
 # Camera with Python
-This repository contains code examples and tutorials for using a camera with Python.
+we'll show you how to create a functional camera using Python programming language. We'll cover everything from creating the basic framework to programming the camera's functionalities and adding filters to your photos. This is a great tutorial for anyone interested in learning more about Python programming, image processing, and camera building. Follow along with us and create your own camera from scratch!
 
 # Requirements
 To run the code examples in this repository, you will need:
